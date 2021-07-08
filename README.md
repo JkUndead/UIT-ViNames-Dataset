@@ -1,5 +1,5 @@
 # UIT-ViNames
-**UIT-ViNames** is a dataset for Predicting Genders for Vietnamese Names.
+**UIT-ViNames** is a dataset using to predict Genders for Vietnamese Names.
 
 **UIT-ViNames** contains *26,850 Vietnamese full names* annotated with genders.
 
