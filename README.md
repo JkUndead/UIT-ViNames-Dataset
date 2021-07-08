@@ -2,6 +2,11 @@
 **UIT-ViNames** is a dataset for Predicting Genders for Vietnamese Names.
 
 **UIT-ViNames** contains *26,850 Vietnamese full names* annotated with genders.
+
+Author: *Huy Quoc To, Kiet Van Nguyen, Ngan Luu-Thuy Nguyen, Anh Gia-Tuan Nguyen*
+
+Paper: *[Gender Prediction Based on Vietnamese Names with Machine Learning Techniques, NLPIR2020](https://dl.acm.org/doi/10.1145/3443279.3443309)*
+
 ## Structure
 Each file has two columns: 
 - Full-Name : Vietnamese full names.
@@ -9,8 +14,6 @@ Each file has two columns:
   - 0 – Female 
   - 1 – Male 
 
-## Paper
-Link: https://dl.acm.org/doi/10.1145/3443279.3443309
 
 ## Citation
 ```
